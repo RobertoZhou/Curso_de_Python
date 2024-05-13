@@ -1,4 +1,0 @@
-Gustavo;41
-Pedro;23
-joao;34
-Ferndanda;25
