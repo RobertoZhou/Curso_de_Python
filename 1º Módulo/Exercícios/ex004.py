@@ -1,0 +1,11 @@
+print("====== DESAFIO 004 ======")
+
+x = input("Digite alguma coisa: ")
+print("Tipo: {}".format(type(x)))
+print("Númerico: {}".format(x.isnumeric()))
+print("Alfabético: {}".format(x.isalpha()))
+print("Alfabético ou Númerico: {}".format(x.isalnum()))
+print("Maiúsculo: {}".format(x.isupper()))
+print("Minúsculo: {}".format(x.islower()))
+print("Titúlo Maiúsculo: {}".format(x.istitle()))
+print("Espaço: {}".format(x.isspace()))
